@@ -18,7 +18,7 @@ The project concerns a system that allows you to track your package online.
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | current location of your package |
 
 ## Main functionalities
 
