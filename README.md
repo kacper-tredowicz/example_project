@@ -17,7 +17,7 @@ The project concerns a system that allows you to show current location of select
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form |
+| INPUT | name of car |
 | OUTPUT | current location of selected car |
 
 ## Main functionalities
